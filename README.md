@@ -9,3 +9,9 @@
   3) Run `npm start` to view project in browser
 
   An app where you can have a comprehensive look at Pune's essential data in the form of insightful visualisations through PowerBi reports.
+
+  ##APP CONTRIBUTORS 
+Siya Gampawar
+Aadi Amit Ringay
+Ketan Polawar
+Om Sangamwar
